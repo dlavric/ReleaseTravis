@@ -1,5 +1,5 @@
 script:
-  - exit 1
+  - exit 0
 deploy:
   provider: releases
   api_key:
